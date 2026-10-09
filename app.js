@@ -1,4 +1,4 @@
-const CA = "0x1ae0bd3f23962734f293a7bdd6dc4734a02b7e01";
+const CA = "0x5765b40bfedd96a8b83800c13afa2466492ef9b9";
 
 const SERIES = {
   "1D": [12, 12, 13, 12, 14, 13, 15, 18, 28, 46, 62, 74, 84, 91],
